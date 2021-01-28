@@ -1,4 +1,13 @@
 body{
     background-color: #ffefd5;
     color: #8b4513;
+    margin-top: auto;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+#tartalom{
+    margin-left: 400px;
+}
+#menu{
+    margin-top: -238px;
 }
